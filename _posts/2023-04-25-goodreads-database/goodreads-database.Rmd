@@ -1,0 +1,81 @@
+---
+title: "Exploring My Goodreads Data"
+description: |
+  Creating a Database
+author:
+  - name: Jess Hooker
+date: 2023-04-25
+preview: goodreads_sql_preview.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+<div style="text-align: right"> [BACK](C:/Users/hooke/Desktop/my-website/j-hook.github.io/_site/projects.html) </div>
+
+<br>
+
+This is the first stage of a project exploring my reading activity from Goodreads. For the initial part of the project, I obtained three raw data from Goodreads:
+
+* A CSV file of all of my books on my Goodreads shelves
+* A JSON object of the activity posted to my Goodreads feed
+* A JSON object of my book reviews
+
+I utilized Python to read the data files and create a database in MySQL. You can find the Jupyter Notebook for the data upload <a href="https://github.com/j-hook/Side-Projects/tree/main/my_goodreads_data" rel="noopener noreferrer" target="_blank"><b>here</b></a>. Next steps are to clean and process the data for exploratory analysis and visualizing. 
+
+
+A snapshot of some of the syntax for creating a table in the database using Python.
+
+```{python, eval=FALSE, echo=TRUE }
+# create the activities table
+try:
+    conn = mysql.connect(host='', database = 'goodreads', user = '', password = '')
+    if conn.is_connected():
+        cursor = conn.cursor()
+        cursor.execute("select database();")
+        record = cursor.fetchone()
+        print("You're connect to the database:", record)
+        cursor.execute('DROP TABLE IF EXISTS activities;')
+        print('Creating table...')
+# create the new table
+        cursor.execute('''
+            CREATE TABLE activities(
+                           activity_id int primary key not null,
+                           activity_type varchar(255),
+                           activity_desc varchar(255),
+                           product varchar(255),
+                           created_date varchar(255) 
+                           )''')
+        print('activities table is created')
+# parse the json data
+    for i, item in enumerate(activities_list):
+        activity_id = i
+        activity_type = item.get('activity_type')
+        activity_desc = item.get('activity')
+        product = item.get('product')
+        created_date = item.get('created_at')
+    # pull the data into the database    
+        cursor.execute(
+                '''
+                INSERT INTO goodreads.activities (
+                activity_id,
+                activity_type,
+                activity_desc,
+                product,
+                created_date 
+                )
+                VALUES (%s,%s,%s,%s,%s)
+                ''', 
+                (
+                activity_id,
+                activity_type,
+                activity_desc,
+                product,
+                created_date,
+              )                
+            )
+        print("record inserted")
+    conn.commit()
+except Error as e:
+    print("Error while connecting to MySQL", e)       
+```
+
