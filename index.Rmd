@@ -23,15 +23,15 @@ In this position I serve as the primary data scientist with roles that include l
 
 <br>
 
-<br> 
-
 <br>
 
 <br>
+
 
 <html>
 <head>
 <style>
+
 footer {
   text-align: right;
   }
