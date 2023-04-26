@@ -1,0 +1,47 @@
+---
+title: "Jess Hooker, PhD"
+image: "headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jessica-hooker-phd/"
+  - label: GitHub
+    url: "https://github.com/j-hook"
+  - label: Email
+    url: "mailto:hooker.jess@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+# Bio
+
+I received my PhD in Communication Science and Disorders from <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">FSU</a> under the mentorship of Dr. Amy Wetherby. My area of research has focused on the examination of screening and assessment measures related to social communication and signs of autism, with an emphasis on psychometrics and statistical analysis.	
+
+Now, I am a postdoctoral scientist at the <a href="https://med.fsu.edu/autisminstitute/home" rel="noopener noreferrer" target="_blank">Autism Institute</a> in the FSU College of Medicine. 
+
+In this position I serve as the primary data scientist with roles that include leading data analysis on multiple projects, designing research methods for new projects, streamlining the collection of data, and refining data organization. 
+
+<br>
+
+<br> 
+
+<br>
+
+<br>
+
+<html>
+<head>
+<style>
+footer {
+  text-align: right;
+  }
+</style>
+</head>
+<body>
+<footer>
+  <p>
+I built this website in <a href="https://www.rstudio.com" rel="noopener noreferrer" target="_blank">RStudio</a> using the <a href="https://github.com/rstudio/distill" rel="noopener noreferrer" target="_blank">`distill`</a> and <a href="https://github.com/seankross/postcards" rel="noopener noreferrer" target="_blank">`postcard`</a> packages. It is currently hosted on GitHub and <a href="https://www.netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a>.</p>
+</footer>
+
+
+

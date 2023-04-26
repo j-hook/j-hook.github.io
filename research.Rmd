@@ -1,0 +1,79 @@
+---
+title: "My Research"
+description: null
+site: 
+  distill::distill_website
+    
+---
+<div style="text-align: right"> [BACK](index.html) </div>
+
+<br>
+
+As an undergraduate, I completed a diverse academic program, pursuing a double major in psychology and speech, language, and hearing science, a minor in linguistics, and a multidisciplinary cognitive science program. 
+
+I conducted my first independent research in my undergraduate thesis, for which I received *summa cum laude* honors at <a href="https://www.colorado.edu/" rel="noopener noreferrer" target="_blank">CU Boulder</a>. To build my expertise as a researcher and scientist, I chose <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">Florida State University</a> for graduate training in communication science and disorders. Here, I gained specialized interdisciplinary research training on two training grants through the US Department of Education—under the mentorship of Dr. Amy Wetherby and Dr. Juliann Woods. To extend this training, I chose  research methodology and advanced statistical analysis as  my area of specialization was for my doctoral training.
+
+Focusing on statistics and methods during my graduate studies allowed me to contribute to a diverse range of projects as a doctoral trainee. Since transitioning to a postdoctoral scientist, I have continued to refine my expertise as a data scientist and methodologist across projects ranging from examining intervention trial outcomes to analyzing large samples of pediatric screening data. My current projects focus on analyzing data from the <a href="https://firstwordsproject.com/" rel="noopener noreferrer" target="_blank">First Words&reg;</a> Project]to inform the ongoing development and optimization of screening and identification tools for children with early signs of autism and social communication delays through <a href="https://babynavigator.com/" rel="noopener noreferrer" target="_blank">Baby Navigator&trade;</a>. 
+
+
+
+</center>
+
+## Ongoing Research Projects
+
+### Characterization of Early Social Communication Research
+
+#### Using machine learning to identify distinct profiles of early social communication skills.
+The primary aim of this study is to use supervised machine learning to identify combinations of social communication skills in the second year of life that best distinguish children with autism from children without autism. We used conditional classification tree modeling with cross-validation to identify an optimal model based a sample of 994 children. Results of this study provided insights about key indicators that predict diagnostic outcomes. <a href="https://github.com/j-hook/R-Projects/tree/main/CSBS_ML_modeling_2023" rel="noopener noreferrer" target="_blank">Analysis Code</a>
+
+#### Modeling differences in social communication change from 12 to 24 months of age.
+The primary goal of this study is investigate differences in social communication change over the second year of life based on diagnostic outcomes near the age of three. To do this we estimated linear mixed models using scores from the Communication and Symbolic Behavior Scales at two time points in a sample of 385 children with autism, developmental delays, or typical development. This study builds on the study above to inform the development of an streamlined identification process for children with autism and communication delays. <a href="https://github.com/j-hook/R-Projects/tree/main/CSBS_LMMs_second_year_2023" rel="noopener noreferrer" target="_blank">Analysis Code</a>
+
+### Early Screening for Autism and Communication Disorders Research
+
+#### Validating the ESAC in toddlers with and without social communication delay. 
+The primary goals of this study were identify underlying social communication dimensions of the <a href="https://doi.org/10.1177/13623613211012526" rel="noopener noreferrer" target="_blank">Early Screening for Autism and Communication Disorder (ESAC)</a>, examine the relationship between these dimensions and social communication ability, and explore differences in these dimensions between children with delays and those with typical development. This study used a combination factor analysis, linear modeling, and discriminant analysis with a sample of 908 children who were screened with the ESAC between 12 and 25 months of age. Results of this study optimized the item set of the screening tool with the intention of improving its accuracy in distinguishing children with social communication delays.  <a href="https://github.com/j-hook/R-Projects/tree/main/ESAC_SC_dimensions_2022" rel="noopener noreferrer" target="_blank">Analysis Code</a>
+
+## Papers Under Review
+<div class="pub">
+Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn, J., Slate, E., & Wetherby, A. The influence of loss to follow-up in autism screening research: Taking stock and moving forward. *Manuscript under review*. 
+</div>
+
+## Published Papers
+
+<div class="pub">
+Delehanty, A. D., **Hooker, J. L.**, & Wetherby, A. M. (in press). Verbal Responsiveness in Parents of Toddlers with and without Autism During a Home Observation. *Journal of Autism and Developmental Disorders.* 
+</div>
+
+<div class="pub">
+Wickstrom, J., Dell’Armo, K., Salzman, E., **Hooker, J. L.**, Delehanty, A., Bishop, S., Tassé, M. J., Wetherby, A. M. Piergies, A. M. H., Damiano, D., Rauch, A., Thurm, A. (2021). Systematic Review: Recommendations for Rehabilitation in ASD and ID from Clinical Practice Guidelines. *Archives of Rehabilitation Research and Clinical Translation*, 3(3), 100140.  <a href="https://doi.org/10.1016/j.arrct.2021.100140" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Sparapani, N., Reinhardt, V. P., **Hooker, J. L.**, Morgan, L., Schatschneider, C., & Wetherby, A. M. (2021). Evaluating teacher language withing general and special educations classrooms serving students with autism. *Journal of Autism and Developmental Disorders*, 52(5), 2284-2299. <a href="https://doi.org/10.1007/s10803-021-05115-4" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Wetherby, A. M., Guthrie, W., **Hooker, J. L.**, Delehanty, A., Day, T. N., Woods, J. J., Pierce, K., … & Lord, C. (2021). The Early Screening for Autism and Communication Disorders (ESAC): Field-testing an autism-specific screening tool for children 12 to 36 months of age. *Autism*, 25(7), 2112-2123. <a href="https://doi.org/10.1177/13623613211012526" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Delehanty, A., Lee, J., **Hooker, J. L.**, Cortese, J., & Woods, J. (2020). Patient Education and Counseling Exploring message framing to engage parents in early screening for autism spectrum disorder. *Patient Education and Counseling*, 103(12), 2525-2531. <a href="https://doi.org/10.1016/j.pec.2020.06.024" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Dow, D., Morgan, L., **Hooker, J. L.**, Michaels, M., Wetherby, A. M., Woods, J. J., Joiner, T. (2019). Anxiety, depression, and suicidality in a community sample of adults with autism spectrum disorder. *Archives of Suicide Research*, 25(2), 297-314. <a href="https://doi.org/10.1080/13811118.2019.1678537" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+**Hooker, J. L.**, Dow, D., Morgan, L., Schatschneider, C., & Wetherby, A. M. (2019). Psychometric analysis of the repetitive behavior scale-revised using confirmatory factor analysis in children with autism. *Autism Research*, 12(9), 1399-1410. <a href="https://doi.org/10.1002/aur.2159" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Morgan, L., **Hooker, J. L.**, Sparapani, N., Reinhardt, V., Wetherby, A. M. (2018). Randomized controlled trial of the classroom SCERTS intervention for elementary school students with autism spectrum disorder. *Journal of Consulting and Clinical Psychology*, 86(7), 631-644. <a href="https://doi.org/10.1037/ccp0000314" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+
+
+
+
