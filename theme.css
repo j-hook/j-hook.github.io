@@ -36,7 +36,10 @@ html {
   --body-font:       'Roboto Slab', serif;
   --navbar-font:     'Roboto Mono', monospace;  /* websites + blogs only */
 }
-
+body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    
+}
 /*-- ARTICLE METADATA --*/
 /* this is the post header data*/
 d-byline {
