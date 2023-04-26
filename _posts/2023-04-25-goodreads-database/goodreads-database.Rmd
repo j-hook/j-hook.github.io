@@ -10,9 +10,7 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-<div style="text-align: right"> [BACK](C:/Users/hooke/Desktop/my-website/j-hook.github.io/_site/projects.html) </div>
 
-<br>
 
 This is the first stage of a project exploring my reading activity from Goodreads. For the initial part of the project, I obtained three raw data from Goodreads:
 

@@ -9,9 +9,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-<div style="text-align: right"> [BACK](C:/Users/hooke/Desktop/my-website/j-hook.github.io/_site/projects.html) </div>
-
-<br>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
