@@ -42,7 +42,7 @@ Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn
 ## Published Papers
 
 <div class="pub">
-Delehanty, A. D., **Hooker, J. L.**, & Wetherby, A. M. (in press). Verbal Responsiveness in Parents of Toddlers with and without Autism During a Home Observation. *Journal of Autism and Developmental Disorders.* 
+Delehanty, A. D., **Hooker, J. L.**, & Wetherby, A. M. (2023). Verbal Responsiveness in Parents of Toddlers with and without Autism During a Home Observation. *Journal of Autism and Developmental Disorders.* <a href="https://doi.org/10.1007/s10803-023-05935-6" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
 </div>
 
 <div class="pub">
@@ -70,7 +70,7 @@ Dow, D., Morgan, L., **Hooker, J. L.**, Michaels, M., Wetherby, A. M., Woods, J.
 </div>
 
 <div class="pub">
-Morgan, L., **Hooker, J. L.**, Sparapani, N., Reinhardt, V., Wetherby, A. M. (2018). Randomized controlled trial of the classroom SCERTS intervention for elementary school students with autism spectrum disorder. *Journal of Consulting and Clinical Psychology*, 86(7), 631-644. <a href="https://doi.org/10.1037/ccp0000314" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+Morgan, L., **Hooker, J. L.**, Sparapani, N., Reinhardt, V., Wetherby, A. M. (2018). Cluster randomized controlled trial of the classroom SCERTS intervention for elementary school students with autism spectrum disorder. *Journal of Consulting and Clinical Psychology*, 86(7), 631-644. <a href="https://doi.org/10.1037/ccp0000314" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
 </div>
 
 
