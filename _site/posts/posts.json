@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-07-13-wa-electric-cars/",
+    "title": "Electric Cars in Washington State",
+    "description": "A Dashboard.",
+    "author": [
+      {
+        "name": "Jess Hooker",
+        "url": {}
+      }
+    ],
+    "date": "2023-07-13",
+    "categories": [],
+    "contents": "\r\nThis was an exploratory project examining all of the electric vehicles currently registered in the state of Washington. I obtained the data set from the Department of Licensing here. The data set comprises just over 138,000 registered vehicles with information that includes the make, model, year, and the number of miles that can be driven on electric power only. Using Tableau, I created a dashboard visualizing several features including the the proportion of registered cars by make and the top 10 electric car cities. This was a fun project exploring the capabilities of Tableau and the ability to quickly create an informative dashboard.\r\nI was surprised to see Nissan represented such a large portion of the registered vehicles at almost 10%. I was also surprised to see how much of a majority Tesla vehicles represented, but after observing how far they can travel on electric power only, it makes sense. As expected, Seattle has the most number of registered electric vehicles at 17% of all registered vehicles. Another observation I made while creating this dashboard, was that while most of the vehicles were made in the list 5 years, there were a handful that date back all the way to the late 90s. That’s impressive!\r\nYou can see a snapshot of the dashboard believe or access the interactive version here on Tableau Public.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-07-13-wa-electric-cars/dashboard.png",
+    "last_modified": "2023-07-13T17:30:00-04:00",
+    "input_file": "wa-electric-cars.knit.md"
+  },
+  {
     "path": "posts/2023-06-14-sdoh-cardio-choropleths/",
     "title": "2019 US Cardiovascular Health Indicators",
     "description": "Mapping county-level health variables.",
