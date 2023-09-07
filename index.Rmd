@@ -19,7 +19,7 @@ I received my PhD in Communication Science and Disorders from <a href="https://w
 
 Now, I am a postdoctoral scientist at the <a href="https://med.fsu.edu/autisminstitute/home" rel="noopener noreferrer" target="_blank">Autism Institute</a> in the FSU College of Medicine. 
 
-In this position I serve as the primary data scientist with roles that include leading data analysis on multiple projects, designing research methods for new projects, streamlining the collection of data, and refining data organization. 
+In this position, I serve as a research and data scientist with roles that include leading data analysis on multiple projects, designing research methods for new projects, streamlining the collection of data, and refining data organization. 
 
 <br>
 

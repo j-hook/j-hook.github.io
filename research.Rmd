@@ -13,7 +13,7 @@ As an undergraduate, I completed a diverse academic program, pursuing a double m
 
 I conducted my first independent research in my undergraduate thesis, for which I received *summa cum laude* honors at <a href="https://www.colorado.edu/" rel="noopener noreferrer" target="_blank">CU Boulder</a>. To build my expertise as a researcher and scientist, I chose <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">Florida State University</a> for graduate training in communication science and disorders. Here, I gained specialized interdisciplinary research training on two training grants through the US Department of Education—under the mentorship of Dr. Amy Wetherby and Dr. Juliann Woods. To extend this training, I chose  research methodology and advanced statistical analysis as  my area of specialization was for my doctoral training.
 
-Focusing on statistics and methods during my graduate studies allowed me to contribute to a diverse range of projects as a doctoral trainee. Since transitioning to a postdoctoral scientist, I have continued to refine my expertise as a data scientist and methodologist across projects ranging from examining intervention trial outcomes to analyzing large samples of pediatric screening data. My current projects focus on analyzing data from the <a href="https://firstwordsproject.com/" rel="noopener noreferrer" target="_blank">First Words&reg;</a> Project]to inform the ongoing development and optimization of screening and identification tools for children with early signs of autism and social communication delays through <a href="https://babynavigator.com/" rel="noopener noreferrer" target="_blank">Baby Navigator&trade;</a>. 
+Focusing on statistics and methods during my graduate studies allowed me to contribute to a diverse range of projects as a doctoral trainee. Since transitioning to a postdoctoral scientist, I have continued to refine my expertise as a data scientist and methodologist across projects ranging from examining intervention trial outcomes to analyzing large samples of pediatric screening data. My current projects focus on analyzing data from the <a href="https://firstwordsproject.com/" rel="noopener noreferrer" target="_blank">First Words&reg;</a> Project to inform the ongoing development and optimization of screening and identification tools for children with early signs of autism and social communication delays through <a href="https://babynavigator.com/" rel="noopener noreferrer" target="_blank">Baby Navigator&trade;</a>. 
 
 
 
@@ -34,23 +34,24 @@ The primary goal of this study is investigate differences in social communicatio
 #### Validating the ESAC in toddlers with and without social communication delay. 
 The primary goals of this study were identify underlying social communication dimensions of the <a href="https://doi.org/10.1177/13623613211012526" rel="noopener noreferrer" target="_blank">Early Screening for Autism and Communication Disorder (ESAC)</a>, examine the relationship between these dimensions and social communication ability, and explore differences in these dimensions between children with delays and those with typical development. This study used a combination factor analysis, linear modeling, and discriminant analysis with a sample of 908 children who were screened with the ESAC between 12 and 25 months of age. Results of this study optimized the item set of the screening tool with the intention of improving its accuracy in distinguishing children with social communication delays.  <a href="https://github.com/j-hook/R-Projects/tree/main/ESAC_SC_dimensions_2022" rel="noopener noreferrer" target="_blank">Analysis Code</a>
 
-## Papers Under Review
-<div class="pub">
-Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn, J., Slate, E., & Wetherby, A. The influence of loss to follow-up in autism screening research: Taking stock and moving forward. *Manuscript under review*. 
-</div>
 
 ## Published Papers
 
 <div class="pub">
-Delehanty, A. D., **Hooker, J. L.**, & Wetherby, A. M. (2023). Verbal Responsiveness in Parents of Toddlers with and without Autism During a Home Observation. *Journal of Autism and Developmental Disorders.* <a href="https://doi.org/10.1007/s10803-023-05935-6" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn, J., Slate, E., & Wetherby, A. The influence of loss to follow-up in autism screening research: Taking stock and moving forward. *Journal of Child Psychology and Psychiatry*. <a href="https://doi.org/10.1111/jcpp.13867" rel="noopener noreferrer" target="_blank"><b>DOI</b></a> 
 </div>
 
 <div class="pub">
-Wickstrom, J., Dell’Armo, K., Salzman, E., **Hooker, J. L.**, Delehanty, A., Bishop, S., Tassé, M. J., Wetherby, A. M. Piergies, A. M. H., Damiano, D., Rauch, A., Thurm, A. (2021). Systematic Review: Recommendations for Rehabilitation in ASD and ID from Clinical Practice Guidelines. *Archives of Rehabilitation Research and Clinical Translation*, 3(3), 100140.  <a href="https://doi.org/10.1016/j.arrct.2021.100140" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+Delehanty, A. D., **Hooker, J. L.**, & Wetherby, A. M. (2023). Verbal responsiveness in parents of toddlers with and without autism during a home observation. *Journal of Autism and Developmental Disorders.* <a href="https://doi.org/10.1007/s10803-023-05935-6" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
 </div>
 
 <div class="pub">
-Sparapani, N., Reinhardt, V. P., **Hooker, J. L.**, Morgan, L., Schatschneider, C., & Wetherby, A. M. (2021). Evaluating teacher language withing general and special educations classrooms serving students with autism. *Journal of Autism and Developmental Disorders*, 52(5), 2284-2299. <a href="https://doi.org/10.1007/s10803-021-05115-4" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+Wickstrom, J., Dell’Armo, K., Salzman, E., **Hooker, J. L.**, Delehanty, A., Bishop, S., Tassé, M. J., Wetherby, A. M. Piergies, A. M. H., Damiano, D., Rauch, A., Thurm, A. (2021). Systematic review: Recommendations for rehabilitation in ASD and ID from clinical practice guidelines. *Archives of Rehabilitation Research and Clinical Translation*, 3(3), 100140.  
+<a href="https://doi.org/10.1016/j.arrct.2021.100140" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+Sparapani, N., Reinhardt, V. P., **Hooker, J. L.**, Morgan, L., Schatschneider, C., & Wetherby, A. M. (2021). Evaluating teacher language within general and special education classrooms serving students with autism. *Journal of Autism and Developmental Disorders*, 52(5), 2284-2299. <a href="https://doi.org/10.1007/s10803-021-05115-4" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
 </div>
 
 <div class="pub">
@@ -58,7 +59,11 @@ Wetherby, A. M., Guthrie, W., **Hooker, J. L.**, Delehanty, A., Day, T. N., Wood
 </div>
 
 <div class="pub">
-Delehanty, A., Lee, J., **Hooker, J. L.**, Cortese, J., & Woods, J. (2020). Patient Education and Counseling Exploring message framing to engage parents in early screening for autism spectrum disorder. *Patient Education and Counseling*, 103(12), 2525-2531. <a href="https://doi.org/10.1016/j.pec.2020.06.024" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+Delehanty, A., Lee, J., **Hooker, J. L.**, Cortese, J., & Woods, J. (2020). Exploring message framing to engage parents in early screening for autism spectrum disorder. *Patient Education and Counseling*, 103(12), 2525-2531. <a href="https://doi.org/10.1016/j.pec.2020.06.024" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
+</div>
+
+<div class="pub">
+**Hooker, J. L.** (2019). Factorial validity and measurement invariance of the Communication and Symbolic Behavior Scales Developmental Profile: Caregiver Questionnaire. *Ph.D. Dissertation, Department of Communication Science and Disorders, Florida State University.* <a href="http://purl.flvc.org/fsu/fd/2019_Fall_Hooker_fsu_0071E_15510" rel="noopener noreferrer" target="_blank"><b>Link</b></a>
 </div>
 
 <div class="pub">
@@ -73,6 +78,63 @@ Dow, D., Morgan, L., **Hooker, J. L.**, Michaels, M., Wetherby, A. M., Woods, J.
 Morgan, L., **Hooker, J. L.**, Sparapani, N., Reinhardt, V., Wetherby, A. M. (2018). Cluster randomized controlled trial of the classroom SCERTS intervention for elementary school students with autism spectrum disorder. *Journal of Consulting and Clinical Psychology*, 86(7), 631-644. <a href="https://doi.org/10.1037/ccp0000314" rel="noopener noreferrer" target="_blank"><b>DOI</b></a>
 </div>
 
+## Professional Presentations
+
+<div class="pub">
+**Hooker, J. L.**, Delehanty, A, & Wetherby, A.M. (2022, May). The 16 Early Sings Checklist: A Brief Observational Screener to Improve Detection of Early Signs of Autism in Very Young Children. *Poster presented at the International Society for Autism Research, Austin, TX.*
+</div>
+
+<div class="pub">
+**Hooker, J. L.** & The ACE ACTION Network (2021, June). Infusing Mobile Technology in the Early Social Interaction Model for Toddlers with Early Signs of Autism: So Far so Good. *Presented at the NIH Autism Centers of Excellence Annual Investigator’s Meeting, Bethesda, MA.*
+</div>
+
+<div class="pub">
+Wetherby, A. M., Delehanty, A., **Hooker, J. L.**, & Woods, J. J. (2019, November). Late Bloomer, Language Delay, or Autism at 18 Months: How Can We Tell Them Apart? *Seminar presented at the Annual Convention of the American Speech-Language-Hearing Association, Orlando, FL.*
+</div>
+
+<div class="pub">
+Wetherby, A. M., **Hooker, J. L.**, Delehanty, A., & Woods, J. (2019, November). Imagine 167 Hours a Week: Maximizing the Impact of the SLP Between Early Intervention Sessions. *Seminar presented at the Annual Convention of the American Speech-Language-Hearing Association, Orlando, FL.*
+</div>
+
+<div class="pub">
+Davis, I., Gilbert, E., **Hooker, J. L.**, Walton-Walker, T., & Wetherby, A. M. (2019, November). Recognizing Early Signs of ASD: How SLPs Can Support and Collaborate with Early Childhood Educators. *Poster presented at the Annual Convention of the American Speech-Language-Hearing Association, Orlando, FL.*
+</div>
+
+<div class="pub">
+**Hooker, J. L.**, Nottke, C., & Wetherby, A. M. (2019, May). Characterizing Adaptive Behavior in Young Children with Autism: Exploring the Gap Between IQ and Adaptive Behavior. *Poster presented at the International Society for Autism Research, Montreal, Canada.*
+</div>
+
+<div class="pub">
+**Hooker, J. L.**, McIlraith, A., Fitton, L., & Adlof, S. (2018, November). When a Measure Doesn't Measure up: Guidelines for Creating and Improving Assessments for Clinical Research. *Panel presented at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.*
+</div>
+
+<div class="pub">
+Wetherby, A., Zenko, C., Delehanty, A., **Hooker, J. L.**, Morgan, L., & Woods, J. (2018, November). The extenders: Innovative service-delivery options to improve outcomes of individuals with autism across the lifespan. *Panel presented at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.*
+</div>
+
+<div class="pub">
+**Hooker, J. L.**, Delehanty, A., & Wetherby, A. M. (2017, November). Five Years Later: Outcomes of a Community Sample of Children Diagnosed with Autism at Three. *Technical session presented at the Annual Convention of the American Speech-Language-Hearing Association, Los Angeles, CA.* 
+</div>
+
+<div class="pub">
+Fitton, L., McIlraith, A., **Hooker, J. L.**, Sparapani, N., Wood, C., & Adlof, S. (2017, November). Adapting to the Modeling Revolution: A Guide to SEM and HLM. *Panel presented at the Annual Convention of the American Speech-Language-Hearing Association, Los Angeles, CA.* 
+</div>
+
+<div class="pub">
+McIlraith, A., Fitton, L., **Hooker, J.**, Brown, J., & Hogan, T. (2017, November). A Practical Guide to Research Design. *Poster presented at the Annual Convention of the American Speech-Language-Hearing Association, Los Angeles, CA.*
+</div>
+
+<div class="pub">
+**Hooker, J. L.**, Morgan, L., Dasher, T., Leatzow, A. (2016, May). Using Peers as Supports for Adult College Students with ASD. *Poster presented at the International Meeting for Autism Research, Baltimore, MD.*
+</div>
+
+<div class="pub">
+**Hooker, J.**, Lorio, C., & Woods, J. (2015, November). Using Technology to Support Emotion Regulation in a Young Child with Autism. *Poster presented at the Annual Convention of the American Speech-Language-Hearing Association, Denver, CO.* 
+</div>
+
+<div class="pub">
+**Hooker, J.**, Livers, A., Ramassini, M., Rippon, E., Rogers, A., Woods, J., Delehanty, A., & Cripe, J. (2014, November). Self-determination and Social Competence Intervention for Tweens with ASD. *Poster presented at the Annual Convention of the American Speech-Language-Hearing Association, Orlando, FL.*
+</div>
 
 
 
