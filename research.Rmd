@@ -38,7 +38,7 @@ The primary goals of this study were identify underlying social communication di
 ## Published Papers
 
 <div class="pub">
-Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn, J., Slate, E., & Wetherby, A. The influence of loss to follow-up in autism screening research: Taking stock and moving forward. *Journal of Child Psychology and Psychiatry*. <a href="https://doi.org/10.1111/jcpp.13867" rel="noopener noreferrer" target="_blank"><b>DOI</b></a> 
+Sheldrick, R. C., **Hooker, J. L.**, Carter, A. S., Feinberg, E. Croen, L., Kuhn, J., Slate, E., & Wetherby, A. (2023). The influence of loss to follow-up in autism screening research: Taking stock and moving forward. *Journal of Child Psychology and Psychiatry*. <a href="https://doi.org/10.1111/jcpp.13867" rel="noopener noreferrer" target="_blank"><b>DOI</b></a> 
 </div>
 
 <div class="pub">
