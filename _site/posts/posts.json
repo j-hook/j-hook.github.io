@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-02-07-ml-r-python/",
+    "title": "Machine Learning with R and Python",
+    "description": "KNN and Random Forest Regression Modeling",
+    "author": [
+      {
+        "name": "Jess Hooker",
+        "url": {}
+      }
+    ],
+    "date": "2024-02-04",
+    "categories": [],
+    "contents": "\r\nOne of my personal goals has been to advance my analytic skills in both Python and R. I am still partial to R because I use it regularly for work and it is a powerhouse for statistical analysis, but the consistency and flexibility of Python is winning me over. I have been steadily grinding away at my master’s in data analytics at WGU over the past 6-months and my latest projects have focused on machine learning algorithms for continuous and categorical outcomes. I decided to use one tool for each project. Both projects were primarily for skill demonstration and utilized practice datasets comprising 10,000 rows and 50 variables. After running each of them, I found both programming languages to be straightforward in their implementation, though, I would argue the pre-processing steps go much more quickly in Python. Below are brief descriptions of each project, with links to the source code on my GitHub.\r\nProject 1: Predicting Customer Churn with K-Nearest Neighbors\r\nThe primary goal of this project was to build a k-nearest neighbors (KNN) algorithm that accurately predicted whether a customer has churned from 25 customer characteristics and service features using data from a “telecommunication company.” I conducted this project in R. Prior to building the KNN model, I used recursive feature elimination with random forests and 10-fold cross-validation to narrow the features down to 8. Then, using the caret package, I performed hyperparameter tuning with cross-fold validation to identify optimal values of k.\r\n\r\n\r\n\r\nFigure 1: This plot shows the performance of different values of k tested during hyperparameter tuning with cross-validation.\r\n\r\n\r\n\r\nWith an optimal k value of 19, the final model achieved 90% accuracy on a held-out data subset. Below is the ROC curve for the final model. The code for this project can be found  here.\r\n\r\n\r\n\r\nFigure 2: This is the ROC curve for the final KNN model on the held-out test data.\r\n\r\n\r\n\r\nProject 2: Predicting Hospitalization Length with Random Forest\r\nThe primary goal of this project was to use random forest regression to predict patients’ length of hospitalization from their demographic, health, and treatment characteristics. I conducted this project with Python using Jupyter Notebook. For this analysis, I primarily relied on the scikit-learn library for pre-processing, hyperparameter tuning, and model building. Below is a snapshot of the variable importance estimates from the training model. Overall, this model had very poor predictive power, with only marginal improvement over the baseline model. Sometimes there aren’t relationships! Though, this is likely a facet of this practice data set. If this had been real patient data, I am confident the model would have predicted hospitalization length with a lot better accuracy. The source code for this project can be found  here.\r\n\r\n\r\n\r\nFigure 3: This plot shows the aggregrated variable importance estimates for each variable included in the random forest regression model using the training data set.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2024-02-07-ml-r-python/knn_tuning.png",
+    "last_modified": "2024-02-07T14:36:28-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-07-13-wa-electric-cars/",
     "title": "Electric Cars in Washington State",
     "description": "A Dashboard.",

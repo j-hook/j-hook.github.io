@@ -9,17 +9,25 @@ site:
 
 <br>
 
-As an undergraduate, I completed a diverse academic program, pursuing a double major in psychology and speech, language, and hearing science, a minor in linguistics, and a multidisciplinary cognitive science program. 
 
-I conducted my first independent research in my undergraduate thesis, for which I received *summa cum laude* honors at <a href="https://www.colorado.edu/" rel="noopener noreferrer" target="_blank">CU Boulder</a>. To build my expertise as a researcher and scientist, I chose <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">Florida State University</a> for graduate training in communication science and disorders. Here, I gained specialized interdisciplinary research training on two training grants through the US Department of Education—under the mentorship of Dr. Amy Wetherby and Dr. Juliann Woods. To extend this training, I chose  research methodology and advanced statistical analysis as  my area of specialization was for my doctoral training.
+I conducted my first independent research for my undergraduate thesis, for which I received *summa cum laude* honors at <a href="https://www.colorado.edu/" rel="noopener noreferrer" target="_blank">CU Boulder</a>. To build my expertise as a researcher and scientist, I chose <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">FSU</a> for graduate school. Here, I completed specialized interdisciplinary research training through two US Department of Education training grants. To extend this training, I chose  research methodology and advanced statistical analysis as my area of specialization for my doctoral training.
 
-Focusing on statistics and methods during my graduate studies allowed me to contribute to a diverse range of projects as a doctoral trainee. Since transitioning to a postdoctoral scientist, I have continued to refine my expertise as a data scientist and methodologist across projects ranging from examining intervention trial outcomes to analyzing large samples of pediatric screening data. My current projects focus on analyzing data from the <a href="https://firstwordsproject.com/" rel="noopener noreferrer" target="_blank">First Words&reg;</a> Project to inform the ongoing development and optimization of screening and identification tools for children with early signs of autism and social communication delays through <a href="https://babynavigator.com/" rel="noopener noreferrer" target="_blank">Baby Navigator&trade;</a>. 
+Focusing on statistics and research methods during my graduate studies allowed me to contribute to a diverse range of projects. Since transitioning to a postdoctoral researcher, I have continued to refine my expertise in data analytics and research methodology. In addition to completing a master's in data analytics through <a href="https://www.wgu.edu/" rel="noopener noreferrer" target="_blank">WGU</a>, I have worked on diverse research projects ranging from clinical intervention trial analysis to analyzing large samples of pediatric screening data. Much of my current work focuses on analyzing data from the <a href="https://firstwordsproject.com/" rel="noopener noreferrer" target="_blank">First Words&reg;</a> Project to inform the ongoing development and optimization of its tools for screening and identifying  children with early signs of autism and social communication delays through <a href="https://babynavigator.com/" rel="noopener noreferrer" target="_blank">Baby Navigator&trade;</a>. 
 
 
 
 </center>
 
 ## Ongoing Research Projects
+
+### Screening for Autism and Communication Delays Research
+
+#### Data-driven Optimization of Autism Screening at Kaiser Permanente
+This study is a collaborative project with <a href="https://orcid.org/0000-0001-7849-9428" rel="noopener noreferrer" target="_blank">Dr. Lisa Croen</a> at Kaiser Permanente in Oakland. For this study we are utilizing their EMR data for a large cohort of children to develop a model for assessing and informing the refinement of their autism screening algorithm. The model is derived from their current screening protocol and is designed to facilitate pediatric population management by balancing the detection of autism with the costs of diagnostic referral. Model performance is being assessed with respect to both instrument accuracy and clinical-decision making, and for each step within the model, we are identifying key mechanisms for bench-marking and program optimization. 
+
+#### Validating the ESAC in toddlers with and without social communication delay. 
+The primary goals of this study were identify underlying social communication dimensions of the <a href="https://doi.org/10.1177/13623613211012526" rel="noopener noreferrer" target="_blank">Early Screening for Autism and Communication Disorder (ESAC)</a>, examine the relationship between these dimensions and social communication ability, and explore differences in these dimensions between children with delays and those with typical development. This study used a combination factor analysis, linear modeling, and discriminant analysis with a sample of 908 children who were screened with the ESAC between 12 and 25 months of age. Results of this study optimized the item set of the screening tool with the intention of improving its accuracy in distinguishing children with social communication delays.  <a href="https://github.com/j-hook/R-Projects/tree/main/ESAC_SC_dimensions_2022" rel="noopener noreferrer" target="_blank">Analysis Code</a>
+
 
 ### Characterization of Early Social Communication Research
 
@@ -29,10 +37,6 @@ The primary aim of this study is to use supervised machine learning to identify 
 #### Modeling differences in social communication change from 12 to 24 months of age.
 The primary goal of this study is investigate differences in social communication change over the second year of life based on diagnostic outcomes near the age of three. To do this we estimated linear mixed models using scores from the Communication and Symbolic Behavior Scales at two time points in a sample of 385 children with autism, developmental delays, or typical development. This study builds on the study above to inform the development of an streamlined identification process for children with autism and communication delays. <a href="https://github.com/j-hook/R-Projects/tree/main/CSBS_LMMs_second_year_2023" rel="noopener noreferrer" target="_blank">Analysis Code</a>
 
-### Early Screening for Autism and Communication Disorders Research
-
-#### Validating the ESAC in toddlers with and without social communication delay. 
-The primary goals of this study were identify underlying social communication dimensions of the <a href="https://doi.org/10.1177/13623613211012526" rel="noopener noreferrer" target="_blank">Early Screening for Autism and Communication Disorder (ESAC)</a>, examine the relationship between these dimensions and social communication ability, and explore differences in these dimensions between children with delays and those with typical development. This study used a combination factor analysis, linear modeling, and discriminant analysis with a sample of 908 children who were screened with the ESAC between 12 and 25 months of age. Results of this study optimized the item set of the screening tool with the intention of improving its accuracy in distinguishing children with social communication delays.  <a href="https://github.com/j-hook/R-Projects/tree/main/ESAC_SC_dimensions_2022" rel="noopener noreferrer" target="_blank">Analysis Code</a>
 
 
 ## Published Papers
