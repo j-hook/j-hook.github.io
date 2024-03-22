@@ -15,12 +15,15 @@ site: distill::distill_website
 
 # Bio
 
-I am a postdoctoral researcher with a passion for data analytics, statistics, and research methodology. 
+I am a research scientist with 8 years of experience with research and quantitative methods. I currently work at the <a href="https://med.fsu.edu/autisminstitute/home" rel="noopener noreferrer" target="_blank">Autism Institute</a> in the <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">FSU</a> College of Medicine. Here, I lead the data analysis on multiple federal grant projects, help design the methodology for new projects, streamline the collection of data, and work to improve data quality. I have experience with each stage of the data lifecycle and synthesize and communicate complex results to diverse audiences in the form of reports, articles, and presentations.
 
-I currently work at the <a href="https://med.fsu.edu/autisminstitute/home" rel="noopener noreferrer" target="_blank">Autism Institute</a> in the <a href="https://www.fsu.edu/" rel="noopener noreferrer" target="_blank">FSU</a> College of Medicine. Here, I am a research and data scientist that leads the data analysis on multiple federal grant projects, helps design the methodology for new projects, streamlines the collection of data, and refines the data organization.
+I’m passionate about using data to inform decisions and solutions that improve the lives of people in need. I am looking for opportunities within healthcare where I can use my skills to find effective solutions and more directly contribute to the organization’s efforts to transform patient care and improve lives.
 
-My research focuses on the screening and assessment of children with early communication days and signs of autism, but my professional goal is use data analytics to drive informed decision-making for improving healthcare. 
  
+
+
+
+
  
 
 <br>
