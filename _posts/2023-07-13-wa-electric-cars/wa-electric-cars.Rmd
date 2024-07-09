@@ -18,7 +18,7 @@ This was an exploratory project examining all of the electric vehicles currently
 
 I was surprised to see Nissan represented such a large portion of the registered vehicles at almost 10%. I was also surprised to see how much of a majority Tesla vehicles represented, but after observing how far they can travel on electric power only, it makes sense. As expected, Seattle has the most number of registered electric vehicles at 17% of all registered vehicles. Another observation I made while creating this dashboard, was that while most of the vehicles were made in the list 5 years, there were a handful that date back all the way to the late 90s. That's impressive!
 
-You can see a snapshot of the dashboard believe or access the interactive version <a href="https://public.tableau.com/app/profile/jessica.hooker/viz/WAElectricVehicles_16892784783670/Dashboard2" rel="noopener noreferrer" target="_blank"><b>here</b></a> on Tableau Public. 
+You can see a snapshot of the dashboard below or access the interactive version <a href="https://public.tableau.com/app/profile/jessica.hooker/viz/WAElectricVehicles_16892784783670/Dashboard2" rel="noopener noreferrer" target="_blank"><b>here</b></a> on Tableau Public. 
 
 
 ```{r, echo=FALSE, out.width="200%"}

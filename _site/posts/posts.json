@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-07-09-wgu-dashboards/",
+    "title": "Health Dashboards in Tableau",
+    "description": "Two interactive health dashboards.",
+    "author": [
+      {
+        "name": "Jess Hooker",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-20",
+    "categories": [],
+    "contents": "\r\nAs part of my master’s degree in Data Analytics through WGU, I’ve been working on mastering Tableau from a healthcare perspective. Using both fictional and publicly available health-related data from the CDC, I’ve created two interactive dashboards focused on chronic health conditions and hospital readmission. The fictional data was provided by WGU and represents 10,000 patients from a national hospital system who had been recently hospitalized. The WGU data set provides information about patients’ health, demographics, and whether they were readmitted after the initial hospitalization.\r\nThe first dashboard paired the WGU data with the NHIS Adult Summary Health Statistics data from 2019 to 2022 (access it here). The NHIS is a yearly national health survey conducted through the National Center for Health Statistics within the CDC and is tasked with the purpose of monitoring the health of individuals in the US. The NHIS data set was utilized because it included chronic health conditions represented in the WGU hospital data set. Specifically, the NHIS dataset includes information about the prevalence of arthritis, chronic pain, diabetes, anxiety, hypertension, obesity, asthma, and high cholesterol. Because both the WGU hospital data and the NHIS data summarize information on these health conditions, the NHIS helped to contextualize some of the insights derived from the WGU hospital data.\r\nYou can see a snapshot of this dashboard below or access the interactive version here on Tableau Public.\r\n\r\n\r\n\r\nThe second dashboard was similar to the first with respect to its overall area of focus, however, there some notable differences. First, the complementary data set used for this dashboard came from the Behavioral Risk Factor Surveillance System, a yearly general population survey of adults in the US. For this project, I utilized the age-adjusted prevalence data from 2011 to 2022, which can be obtained from here.\r\nSimilar to the NHIS data above, this data included state-level estimates of chronic health conditions within the US. Second, the data for this dashboard was accessed using a connection to a postgreSQL database and a complex SQL query rather than raw CSV files. This required writing queries to create a new data table for the BRFSS data set, transform the features of interest to the correct format, and join the WGU data to the BRFSS data set. The WGU data was aggregated at the state-level and then joined to the state-level estimates in the BRFSS data.\r\nBelow is a snapshot of this dashboard. The interactive version of this dashboard can be accessed here on Tableau Public.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2024-07-09-wgu-dashboards/dash_1.png",
+    "last_modified": "2024-07-09T13:55:08-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2024-02-07-ml-r-python/",
     "title": "Machine Learning with R and Python",
     "description": "KNN and Random Forest Regression Modeling",
@@ -28,9 +45,9 @@
     ],
     "date": "2023-07-13",
     "categories": [],
-    "contents": "\r\nThis was an exploratory project examining all of the electric vehicles currently registered in the state of Washington. I obtained the data set from the Department of Licensing here. The data set comprises just over 138,000 registered vehicles with information that includes the make, model, year, and the number of miles that can be driven on electric power only. Using Tableau, I created a dashboard visualizing several features including the the proportion of registered cars by make and the top 10 electric car cities. This was a fun project exploring the capabilities of Tableau and the ability to quickly create an informative dashboard.\r\nI was surprised to see Nissan represented such a large portion of the registered vehicles at almost 10%. I was also surprised to see how much of a majority Tesla vehicles represented, but after observing how far they can travel on electric power only, it makes sense. As expected, Seattle has the most number of registered electric vehicles at 17% of all registered vehicles. Another observation I made while creating this dashboard, was that while most of the vehicles were made in the list 5 years, there were a handful that date back all the way to the late 90s. That’s impressive!\r\nYou can see a snapshot of the dashboard believe or access the interactive version here on Tableau Public.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis was an exploratory project examining all of the electric vehicles currently registered in the state of Washington. I obtained the data set from the Department of Licensing here. The data set comprises just over 138,000 registered vehicles with information that includes the make, model, year, and the number of miles that can be driven on electric power only. Using Tableau, I created a dashboard visualizing several features including the the proportion of registered cars by make and the top 10 electric car cities. This was a fun project exploring the capabilities of Tableau and the ability to quickly create an informative dashboard.\r\nI was surprised to see Nissan represented such a large portion of the registered vehicles at almost 10%. I was also surprised to see how much of a majority Tesla vehicles represented, but after observing how far they can travel on electric power only, it makes sense. As expected, Seattle has the most number of registered electric vehicles at 17% of all registered vehicles. Another observation I made while creating this dashboard, was that while most of the vehicles were made in the list 5 years, there were a handful that date back all the way to the late 90s. That’s impressive!\r\nYou can see a snapshot of the dashboard below or access the interactive version here on Tableau Public.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/2023-07-13-wa-electric-cars/dashboard.png",
-    "last_modified": "2023-07-13T17:30:00-04:00",
+    "last_modified": "2024-07-09T13:54:07-04:00",
     "input_file": {}
   },
   {
